@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/typeofNaN/typeofNaN.github.io/"/>
-  <updated>2021-03-15T07:14:38.604Z</updated>
+  <updated>2021-01-29T07:55:59.163Z</updated>
   <id>https://github.com/typeofNaN/typeofNaN.github.io/</id>
   
   <author>
@@ -15,50 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>终章</title>
-    <link href="https://github.com/typeofNaN/typeofNaN.github.io/2021/03/15/end/"/>
-    <id>https://github.com/typeofNaN/typeofNaN.github.io/2021/03/15/end/</id>
-    <published>2021-03-15T07:06:17.000Z</published>
-    <updated>2021-03-15T07:14:38.604Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是2021年3月15日，天气晴，心情雨。</p><p>一切都结束了，不会有转机了。</p><p>END.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天是2021年3月15日，天气晴，心情雨。&lt;/p&gt;
-&lt;p&gt;一切都结束了，不会有转机了。&lt;/p&gt;
-&lt;p&gt;END.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我在昨天的梦里又看见了你</title>
-    <link href="https://github.com/typeofNaN/typeofNaN.github.io/2021/02/05/a-dream-last-night/"/>
-    <id>https://github.com/typeofNaN/typeofNaN.github.io/2021/02/05/a-dream-last-night/</id>
-    <published>2021-02-05T00:20:20.000Z</published>
-    <updated>2021-03-01T02:53:29.314Z</updated>
-    
-    <content type="html"><![CDATA[<p>&nbsp;</p><a id="more"></a><img src="/2021/02/05/a-dream-last-night/dream.jpeg" title="夜半"><center><br>  我在昨天的梦里又看见了你<br><br>  不知道有多久没有见你<br></center>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="生活" scheme="https://github.com/typeofNaN/typeofNaN.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>vue常用自定义指令</title>
@@ -81,26 +37,6 @@
       <category term="vue" scheme="https://github.com/typeofNaN/typeofNaN.github.io/tags/vue/"/>
     
       <category term="vue directive" scheme="https://github.com/typeofNaN/typeofNaN.github.io/tags/vue-directive/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>错过</title>
-    <link href="https://github.com/typeofNaN/typeofNaN.github.io/2021/01/20/missing/"/>
-    <id>https://github.com/typeofNaN/typeofNaN.github.io/2021/01/20/missing/</id>
-    <published>2021-01-20T06:38:04.000Z</published>
-    <updated>2021-01-20T06:53:07.341Z</updated>
-    
-    <content type="html"><![CDATA[<p>&nbsp;</p><a id="more"></a><img src="/2021/01/20/missing/missing.jpeg" title="错过"><center><br>  人人都会错过<br>  人人都曾错过<br>  真正属于你的<br>  永远不会错过<br></center>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="感言" scheme="https://github.com/typeofNaN/typeofNaN.github.io/categories/%E6%84%9F%E8%A8%80/"/>
-    
     
   </entry>
   
